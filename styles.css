@@ -1,0 +1,9 @@
+.facebook{
+    text-align: center;
+    border: 6 px solid blue;
+}
+.button{
+    margin-top:10px;
+    width: 150px;
+    background-color: rgb(8, 14, 27);
+}
